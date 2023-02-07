@@ -1,4 +1,4 @@
-name: "Find and Replace"
+name: "Find and Replace - testing a Go action"
 description: "Find and replace a string in your project files"
 author: "Asdrubal Gonzalez Penton"
 inputs:
